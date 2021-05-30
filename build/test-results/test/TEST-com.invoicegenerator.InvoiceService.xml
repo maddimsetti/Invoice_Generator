@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.invoicegenerator.InvoiceService" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-28T01:31:35" hostname="LAPTOP-0VN1Q936" time="0.031">
+  <properties/>
+  <testcase name="givenMultipleRides_ShouldReturnInvoiceSummary()" classname="com.invoicegenerator.InvoiceService" time="0.031"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
